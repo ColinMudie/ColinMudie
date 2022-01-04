@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 :smiley_cat: T'Challa
 
-".....Time's way with you and me is our way,   
-In that we are out of Time   
-And out of tune with Time."  - Edwin Arlington Robinson  
+“It had been a failure,   
+but it was a failure he understood,  
+and that made it a victory.”  - James S.A. Corey, Caliban's War
 
 ### Core Values
 - Passion
